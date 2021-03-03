@@ -1,3 +1,3 @@
-function makeInt(string){
-  return makeInt('string', 10)
+function add(a, b){
+  return a+b
 }
